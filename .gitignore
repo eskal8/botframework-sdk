@@ -30,3 +30,6 @@ bones/
 
 # Python virtual environments
 **/*env/
+
+.fake
+.ionide
